@@ -1,0 +1,9 @@
+vagrant up
+
+vagrant status
+
+
+vagrant ssh web1
+
+
+vagrant ssh web2
